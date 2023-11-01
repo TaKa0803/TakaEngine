@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EngineRRemake", "EngineRRemake.vcxproj", "{CE6351BE-9C68-49D9-A377-CE0CA21F2CCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{E4139C39-D58C-4202-82B4-68814D1A8946}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6351BE-9C68-49D9-A377-CE0CA21F2CCB}.Debug|x64.ActiveCfg = Debug|x64
+		{CE6351BE-9C68-49D9-A377-CE0CA21F2CCB}.Debug|x64.Build.0 = Debug|x64
+		{CE6351BE-9C68-49D9-A377-CE0CA21F2CCB}.Release|x64.ActiveCfg = Release|x64
+		{CE6351BE-9C68-49D9-A377-CE0CA21F2CCB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F319098-01A1-45F1-8431-280EC06E9586}
+	EndGlobalSection
+EndGlobal
